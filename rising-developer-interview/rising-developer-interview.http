@@ -1,0 +1,6 @@
+@rising_developer_interview_HostAddress = http://localhost:5074
+
+GET {{rising_developer_interview_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
